@@ -1,0 +1,14 @@
+Physicians
+https://documenter.getpostman.com/view/31763449/2s9YyqiNEb
+
+Patients
+https://documenter.getpostman.com/view/31763449/2s9YyqiNEg
+
+Appointments
+https://documenter.getpostman.com/view/31763449/2s9YyqiNEh
+
+Consultation
+https://documenter.getpostman.com/view/31763449/2s9YyqiNEk
+
+Gateway
+https://documenter.getpostman.com/view/31763449/2s9YyqiNK9

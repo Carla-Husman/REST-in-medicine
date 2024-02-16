@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50c2fde2-0fce-452b-bf57-c590d1875b0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/AuthenticationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/AuthenticationRequestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/AuthenticationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/AuthenticationResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/AuthenticatorServiceGrpc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ErrorResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/RegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/RegisterRequestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/RegisterResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/RegisterResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ValidateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ValidateRequestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ValidateResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Client/src/main/kotlin/com/grpc/proto/ValidateResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/com/grpc/proto/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/com/grpc/proto/AuthenticatorServiceGrpc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/service/AuthenticationImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/kotlin/service/AuthenticationImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/resources/authentication.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../../gRPC_Kotlin/Server/src/main/resources/authentication.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Za6NOdmttEZvjz8btetKtX6Zgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "proiect",
+    "last_opened_file_path": "C:/Users/Husman Carla/Desktop/Facultate/An 4/Programarea Orientata pe Servicii/Incercare 1/activitate-proiect-laborator-2023-2024-Husman-Carla/gRPC_Kotlin2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c2fde2-0fce-452b-bf57-c590d1875b0f" name="Changes" comment="" />
+      <created>1702647803339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702647803339</updated>
+      <workItem from="1702647804387" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+syntax = "proto3";
+
+option java_package = "com.grpc.proto";
+
+service AuthenticationService {
+  rpc RegisterUser(RegistrationRequest) returns (RegistrationResponse) {}
+  rpc CreateToken(AuthenticationRequest) returns (Token);
+  rpc VerifyToken(Token) returns (BoolValue);
+  rpc DestroyToken(Token) returns (BoolValue);
+  rpc UpdateUser(UpdateRequest) returns (UpdateResponse);
+  rpc DeleteUser(DeleteRequest) returns (DeleteResponse);
+}
+
+message DeleteRequest {
+  int32 uid = 1;
+}
+
+message DeleteResponse {
+  int32 value = 1;
+}
+
+message RegistrationResponse {
+  int32 uid = 1;
+}
+
+message BoolValue {
+  // The bool value.
+  bool value = 1;
+}
+
+message User {
+  string uid = 1;
+  string username = 2;
+  string password = 3;
+  string role = 4;
+}
+
+message RegistrationRequest {
+  string username = 1;
+  string password = 2;
+  string role = 3;
+}
+
+message AuthenticationRequest {
+  string username = 1;
+  string password = 2;
+}
+
+message Token {
+  string value = 1;
+}
+
+message UpdateRequest {
+  string newUsername = 1;
+  string newPassword = 2;
+  string oldPassword = 3;
+  int32 uid = 4;
+}
+
+message UpdateResponse {
+  string message = 1;
+}
