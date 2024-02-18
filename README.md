@@ -10,6 +10,7 @@ The project will implement Representational State Transfer (REST) principles, wi
 - Docker (only for running the database server)
 - MariaDB
 - MongoDB
+- SpringBoot
 
 ## Informations
 In Kotlin, I've developed REST controllers for the Medical Office component, handling endpoints for appointments, doctors, and patients, along with consultations, and orchestrating their interactions. Additionally, Kotlin was utilized to create the server for GRPC, responsible for token JWT generation, verification, user table updates (including username, password, and role), as well as user registration. The logic for login and logout functionalities is also implemented within this server.
